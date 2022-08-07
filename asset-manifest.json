@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Saif-Ali/static/css/main.730807e5.css",
-    "main.js": "/Saif-Ali/static/js/main.268899b8.js",
+    "main.css": "/Saif-Ali/static/css/main.49913b0a.css",
+    "main.js": "/Saif-Ali/static/js/main.c0835969.js",
     "static/media/me1.jpg": "/Saif-Ali/static/media/me1.8c00b6c9b8e8432736d7.jpg",
     "static/media/me.png": "/Saif-Ali/static/media/me.0ec363a26d20a46e46ae.png",
     "static/media/avatar.png": "/Saif-Ali/static/media/avatar.c68ccdddfc1160dbaec1.png",
     "static/media/project.jpg": "/Saif-Ali/static/media/project.164641d794fd4bf9b78d.jpg",
     "static/media/CV.pdf": "/Saif-Ali/static/media/CV.c90abb3d467fff44f60c.pdf",
     "index.html": "/Saif-Ali/index.html",
-    "main.730807e5.css.map": "/Saif-Ali/static/css/main.730807e5.css.map",
-    "main.268899b8.js.map": "/Saif-Ali/static/js/main.268899b8.js.map"
+    "main.49913b0a.css.map": "/Saif-Ali/static/css/main.49913b0a.css.map",
+    "main.c0835969.js.map": "/Saif-Ali/static/js/main.c0835969.js.map"
   },
   "entrypoints": [
-    "static/css/main.730807e5.css",
-    "static/js/main.268899b8.js"
+    "static/css/main.49913b0a.css",
+    "static/js/main.c0835969.js"
   ]
 }
